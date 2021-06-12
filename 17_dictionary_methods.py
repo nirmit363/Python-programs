@@ -1,8 +1,8 @@
 My_Dict = {
     'fast': 'In a quick Manner',
-    'Amresh': 'Hello! Amresh',
+    'Nirmit': 'Hello! Nirmit',
     'marks': '[1,2,3]',
-    'secondDict': {'amresh': 'Hero'},
+    'secondDict': {'Nirmit': 'Hero'},
     1:2
 }
 
@@ -13,7 +13,7 @@ print (My_Dict.items()) # print all the key,values
 updatedict = {
     'lovish': 'friend',
     'Divya': 'friend',
-    'Amresh': 'A handsome boy' # update the the previously existed key in the dictionary
+    'Nirmit': 'A handsome boy' # update the the previously existed key in the dictionary
 }
 My_Dict.update(updatedict)
 print (My_Dict)

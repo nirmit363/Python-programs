@@ -1,8 +1,8 @@
 My_Dict = {
     'fast': 'In a quick Manner',
-    'Amresh': 'Hello! Amresh',
+    'Nirmit': 'Hello! Nirmit',
     'marks': '[1,2,3]',
-    'secondDict': {'amresh': 'Hero'}
+    'secondDict': {'nirmit': 'Hero'}
 }
-print (My_Dict['fast']+'\n'+My_Dict['Amresh']+'\n'+My_Dict['marks'])
-print (My_Dict['secondDict']['amresh'])
+print (My_Dict['fast']+'\n'+My_Dict['nirmit']+'\n'+My_Dict['marks'])
+print (My_Dict['secondDict']['nirmit'])

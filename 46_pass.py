@@ -6,4 +6,4 @@ if (i > 0):
 def sum(a, b):
     pass
 
-print ('amresh')
+print ('nirmit')

@@ -4,6 +4,6 @@
 
 x = open('71_another.txt', 'w')
 x.write('I am writing .')
-x.write('I am Amresh.')
+x.write('I am Nirmit.')
 x.write('Hello.')
 x.close

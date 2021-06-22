@@ -17,7 +17,7 @@ class Employee:
         print (curr_time)
 
 amresh = Employee()
-amresh.name = 'Amresh'
+amresh.name = 'Nirmit'
 amresh.salary = 10000
 amresh.getSalary('Thanks!')
 amresh.greet()

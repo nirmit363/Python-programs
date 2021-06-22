@@ -10,3 +10,4 @@ with open(newname, 'w') as f:
     f.write(content)
 
 os.remove(oldname)
+

@@ -5,6 +5,6 @@ class RailwayForm:
         print (f'Train name is {self.trainName}')
 
 amreshApplication = RailwayForm()
-amreshApplication.name = 'Amresh Tripathy'
-amreshApplication.trainName = 'Rorlkela to Koraput'
+amreshApplication.name = 'Nirmit Rath'
+amreshApplication.trainName = 'Rourlkela to Puri'
 amreshApplication.printInformation()

@@ -10,4 +10,3 @@ remote1 = Remote()
 move1 = Move()
 if (remote1.isClickRight()):
     move1.moveRight()
-    

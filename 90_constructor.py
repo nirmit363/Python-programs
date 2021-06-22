@@ -28,7 +28,7 @@ class Employee:
         print (curr_time)
 
 amresh = Employee('amresh', 1000, 'youtube')
-# amresh = employee() throws an error 3 required positional argument
+# nirmit = employee() throws an error 3 required positional argument
 amresh.getDetails()
 
 amresh.name = 'Harry'

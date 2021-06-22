@@ -6,3 +6,4 @@ with open('copy.txt', 'w') as f:
 
 with open('copy.txt') as f:
     print (f.read())
+    

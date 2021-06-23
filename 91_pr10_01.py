@@ -7,7 +7,7 @@ class programmer:
     def getInfo(self):
         print (f'The name of the {self.company} programmer is {self.name} and the product is {self.product}')
 
-amresh = programmer('amresh', 'skype')
+amresh = programmer('nirmit', 'skype')
 alka = programmer('alka', 'office')
 amresh.getInfo()
 alka.getInfo()

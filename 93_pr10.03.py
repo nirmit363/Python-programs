@@ -3,7 +3,7 @@ class Sample:
 
 obj = Sample()
 obj.a = 'vicky'
-# Sample.a ='Amresh'
+# Sample.a ='Nirmit'
 
 print (Sample.a)
 print (obj.a)

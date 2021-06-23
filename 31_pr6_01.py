@@ -17,4 +17,3 @@ if (f1 > f2):
     print (str(f1) + ' is greatest')
 else:
     print (str(f2) + ' is greatest')
-    

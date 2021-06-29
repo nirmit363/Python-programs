@@ -32,3 +32,4 @@ if __name__ == '__main__':
         result = alternatingCharacters(s)
 
         print (result)
+        

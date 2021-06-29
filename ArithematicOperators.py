@@ -7,3 +7,4 @@ if(1 <= a <10**10):
         print(a*b)
 else:
     print("limit range exceeded")
+    

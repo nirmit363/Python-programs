@@ -5,4 +5,3 @@ class MyBook(Book):
 
     def display(self):
         print("Title: " +self.title + "\nAuthor: " + self.author + "\nPrice: " + str(self.price))
-

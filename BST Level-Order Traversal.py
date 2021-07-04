@@ -1,5 +1,3 @@
-
-
     def levelOrder(self,root):
         queue = [root]
         while len(queue) is not 0:
